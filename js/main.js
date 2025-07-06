@@ -1,4 +1,4 @@
-const baseURL = `http://api.weatherapi.com/v1`;
+const baseURL = `https://api.weatherapi.com/v1`;
 const endPoint = `/forecast.json`;
 const APIKey = `e5037c0a46804d8483a225943240201`;
 const rowData = document.querySelector("#container");
